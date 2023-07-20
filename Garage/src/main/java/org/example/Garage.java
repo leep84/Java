@@ -1,9 +1,13 @@
 package org.example;
+
 import java.util.Arrays;
+
+
 import java.util.List;
 import java.util.ArrayList;
 
 public class Garage {
+
 
    public static ArrayList<Vehicle> garage = new ArrayList<>();
         public static void addToGarage(Vehicle v) {
@@ -32,10 +36,6 @@ public class Garage {
 
 
         }
-
-
-
-
 
 
 }

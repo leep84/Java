@@ -8,6 +8,7 @@ public class Motorbike extends Vehicle {
         this.bikeType = bikeType;
     }
 
+
     @Override
     public String toString() {
         return "Motorbike{" +
@@ -17,5 +18,6 @@ public class Motorbike extends Vehicle {
                 ", numberOfWheels=" + numberOfWheels +
                 ", fuelType='" + fuelType + '\'' +
                 '}';
+
     }
 }

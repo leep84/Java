@@ -17,4 +17,5 @@ public class Bike extends Vehicle{
                 ", fuelType='" + fuelType + '\'' +
                 '}';
     }
+
 }
